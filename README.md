@@ -23,6 +23,7 @@ react-native start
 react-native run-android
 ```
 
-![Screenshot](en.png)
-
-![Screenshot](ar.png)
+## English
+![Screenshot](./assets/images/en.png)
+## Arabic
+![Screenshot](./assets/images/ar.png)
