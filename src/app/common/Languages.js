@@ -1,0 +1,50 @@
+/** @format */
+
+import LocalizedStrings from 'react-native-localization';
+
+export default new LocalizedStrings({
+  en: {
+    WelcomeHeader: ' Welcome to 86',
+    FindYourDailyGoods: 'Find your daily goods',
+    SearchHere: 'Search here..',
+    CompleteYourProfile: 'Complete your profile',
+    alertMessage:
+      'Order to complete your registration kindly update your profile',
+    Promotions: 'Promotions',
+    SeeAll: 'See all',
+    Banner: 'Banner',
+    Cleaning: 'Cleaning',
+    EdibleOils: 'Edible Oils',
+    Fish: 'Fish',
+    Fruits: 'Fruits',
+    Grocery: 'Grocery',
+    Meat: 'Meat',
+    Spice: 'Spice',
+    Vegetables: 'Vegetables',
+    Home: 'Home',
+    Orders: 'Orders',
+    Favorites: 'Favorite',
+    MyCart: 'My Cart',
+  },
+  ar: {
+    WelcomeHeader: 'مرحبًا بك في 86',
+    FindYourDailyGoods: 'ابحث عن سلعك اليومية',
+    SearchHere: 'ابحث هنا..',
+    CompleteYourProfile: 'أكمل ملفك الشخصي',
+    alertMessage: 'اطلب استكمال التسجيل يرجى تحديث ملف التعريف الخاص بك',
+    Promotions: 'الترقيات',
+    SeeAll: 'اظهار الكل',
+    Cleaning: 'تنظيف',
+    EdibleOils: 'زيوت صالحة للأكل',
+    Fish: 'سمك',
+    Fruits: 'الفاكهة',
+    Grocery: 'بقالة',
+    Meat: 'لحم',
+    Spice: 'التوابل',
+    Vegetables: 'خضروات',
+    Home: 'الصفحة الرئيسية',
+    Orders: 'الطلب #٪ s',
+    Favorites: 'مفضل',
+    MyCart: 'عربة التسوق الخاصة بي',
+  },
+});
