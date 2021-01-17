@@ -24,6 +24,6 @@ react-native run-android
 ```
 
 ## English
-![Screenshot](./assets/images/en.png)
+![Screenshot](./src/assets/images/en.png)
 ## Arabic
-![Screenshot](./assets/images/ar.png)
+![Screenshot](./src/assets/images/ar.png)
